@@ -8,3 +8,62 @@ problems faced by rural areas:
 
 this is my idea.I will be thinking on these parts meanwhile also u people search for ideas
 
+apps build for disabled people:
+
+1)five finger typist :
+Five Finger Typist teaches the keyboarding technique for single-handed touch typing on the standard QWERTY keyboard. Users learn the home position and are then taken through a series of exercises which introduce new keys and revise keys already learned. Extremely easy, but flexible to use.
+
+You can follow the suggested learning sequence, or move ahead or back. The application remembers the last lesson worked in a user's document file and opens at that lesson next time. Lessons are graded, starting with simple exercises to assist with the learning of the correct key strokes, an animated hand graphic on the screen shows the correct hand movement as keys are typed. Five Finger Typist has some word processing capabilities, so users can learn limited word processing skills while typing.
+
+Typing lessons can be printed to show a pupil's progress.
+
+Please note: check compatibility for Mac OS X within the Support area tab.
+
+Read a comparative review of typing tutors by Melanie Jones.
+
+
+
+2)  AAC (Augmentative and Alternative Communication) software for the iPad:
+
+Current application of a full-featured AAC (Augmentative and Alternative Communication) software for the iPad.
+It gives the speech to people, who lacks it.
+ 
+ 3)talkit:
+
+Talkitt software is aimed to help people suffering from speech disorders. 
+In fact, it is an application, which is capable of recognizing user’s vocal patterns and reproducing the words in a Stephen Hawking-style voice.
+
+4)Be My Eyes:
+
+This application is aimed to help blind or visually impaired people.
+It connects blind people who need assistance with sighted volunteers willing to help by dint of a direct video connection.
+As an example of practice, we would deliver an occasion, when blind people need an assistance to make their way around a new place.
+
+5)Ariadne GPS:
+
+Ariadne GPS is an application from a range of those aimed to help blind or visually impaired.
+Its principle of operation is based on the talking maps.
+It allows blind people to explore the environment while moving a finger around the map.
+A rotating and responsive map keeps a disabled person centered.
+
+6)Color ID FREE:
+
+Current app is designed to identify the color by dint of aiming your smartphone camera at the peculiar object. 
+Color ID Free helps to recognize the hex value of the color in order to identify the color your camera sees.
+Apart from identifying the color, the application speaks the names of colors in real time.
+This software comes in handy for people, who are color blind. It brings useful experience.
+
+7)AVAZ:
+
+AVAZ application is originated in Australia. 
+It enables children with autism to speak using pictures.
+As an example, this application is popular in speech therapy sessions.
+AVAZ helps to develop language and to stimulate the intent to communicate.
+It uses picture symbols and a voice in order to help non-verbal users create messages.
+The AVAZ Pro version of the software has an additional set of convenient functions like growth tracking and boards sharing on Facebook/ Twitter.
+
+8)Roger voice: 
+
+Roger Voice application is created to assist people with hearing disorders. 
+It is based on a voice-to-text system.
+By dint of voice recognition, it converts voice to text in order to provide the deaf people with “hearing” of phone calls by reading.
